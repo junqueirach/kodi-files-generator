@@ -2,7 +2,9 @@
 
 **Generate Kodi episode `.nfo` and XML metadata files from a CSV, then check and rename episode files to match.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![Python](https://img.shields.io/badge/Python-3.9%2B-blue) [![CI](https://github.com/junqueirach/kodi-files-generator/actions/workflows/ci.yml/badge.svg)](https://github.com/junqueirach/kodi-files-generator/actions/workflows/ci.yml)
+
+<p align="center"><img src="docs/screenshots/kodi-files-generator.png" alt="Kodi Files Generator screenshot" width="900"></p>
 
 ## What it does
 
@@ -28,6 +30,10 @@ Standard library only (Tkinter). Five revisions are kept in `archive/versions/`.
 Built with **Claude (Anthropic)** as the coding partner. I wrote the requirements and the revision prompts, tested every build on real data, and decided what to fix next. The `archive/versions/` folder keeps every earlier release so the iteration history is visible.
 
 **Security note:** the app stores any API keys you enter in a local settings file outside this repository. `.gitignore` excludes config and settings files so keys are never committed.
+
+## Contributing and security
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md). Bug reports and ideas are welcome through the issue templates.
 
 ## Licence
 

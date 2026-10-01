@@ -6,6 +6,10 @@
 
 <p align="center"><img src="docs/screenshots/kodi-files-generator.png" alt="Kodi Files Generator screenshot" width="900"></p>
 
+## How it works
+
+<p align="center"><img src="docs/screenshots/how-it-works.png" alt="How it works" width="900"></p>
+
 ## What it does
 
 - Reads a CSV of episodes (ID, season, episode, title, TVDB and IMDB IDs, air date, runtime, rating, description)

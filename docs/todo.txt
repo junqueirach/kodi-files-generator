@@ -1,0 +1,6 @@
+a very small bug, the output folder has "\metadata" as the standard folder and this is wrong. It is "/metadata"
+
+identify similar episode name on top of the sxxe3xx to rename
+
+when check conscistency of the csv, check blank lines that will be ignored. The file might be poluted with wrong info. 
+when check conscistency of the csv, give the option for the user to choose the column of the csv file that is missing. For example, if the code expects a "Description" column header and do not find, list the columns there are in the csv file and ask the user to choose one to replace if possible. Here i am trying to capture columns that are named differently from what the code is expected and this happens offen

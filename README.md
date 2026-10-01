@@ -6,6 +6,10 @@
 
 <p align="center"><img src="docs/screenshots/kodi-files-generator.png" alt="Kodi Files Generator screenshot" width="900"></p>
 
+**Download for Windows:** get the ready-to-run `.exe` from the [latest release](https://github.com/junqueirach/kodi-files-generator/releases/latest). No Python needed.
+
+> **Windows SmartScreen:** the file is not code-signed, so Windows may show "Windows protected your PC". Click **More info**, then **Run anyway**. You can also run the app from source (see Quick start) and read every line of the code first.
+
 ## How it works
 
 <p align="center"><img src="docs/screenshots/how-it-works.png" alt="How it works" width="900"></p>

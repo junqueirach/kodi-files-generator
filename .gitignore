@@ -14,7 +14,7 @@ output/
 Saves/
 temp/
 # Models, environments, caches
-tools/
+# (tools/ is published: make_icon.py, gui_harness.py)
 envs/
 venv/
 .venv/
@@ -31,3 +31,13 @@ __pycache__/
 
 # Private notes
 docs/todo.txt
+
+# Build and release output (zip goes to GitHub Releases only)
+release/
+dist/
+build/
+*.spec
+.kfg_backup/
+
+# Copies of third-party web pages used by local tests
+tests/fixtures/

@@ -1,0 +1,7 @@
+# Kodi Files Generator v0.5.0
+pillow>=10          # episode thumbnails, artwork (required)
+certifi             # secure connections (required)
+truststore          # use the Windows certificate check (recommended; Python 3.10+)
+tkinterdnd2         # drag and drop (optional)
+openpyxl            # Excel .xlsx episode lists (optional)
+# External, optional: FFmpeg / ffprobe (frames from videos, technical info) — PATH, C:\FFmpeg\bin or Settings → Files

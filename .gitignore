@@ -28,3 +28,6 @@ __pycache__/
 *.srt
 *.vtt
 *.wav
+
+# Private notes
+docs/todo.txt

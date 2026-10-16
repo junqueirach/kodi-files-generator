@@ -29,7 +29,7 @@
 python kodi_generator.py
 ```
 
-Standard library only (Tkinter). Five revisions are kept in `archive/versions/`. Planned improvements are in [docs/todo.txt](docs/todo.txt).
+Standard library only (Tkinter). The four earlier versions are kept in `archive/versions/`.
 
 ---
 
